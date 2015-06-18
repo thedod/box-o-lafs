@@ -1,7 +1,7 @@
 I've been playing on and off with [Tahoe-LAFS](https://tahoe-lafs.org/) since [before](https://dubiousdod.org/uri/URI:DIR2-RO:r7xnodn7et6d3ex44p77qk4eka:nvca4ivhhm2an3eafzpg7wpppy7osgyxvngng5uriqjv2qkcag6a/Latest/5th-of-november.html) IT history has [ended](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_%282013%E2%80%93present%29) [retroactively], and until recently believed there were 2 issues Tahoe-LAFS should solve before becoming abundantly available:
 
 1. "Magic folder" functionality
-2. Quotas/accuonting
+2. Quotas/accounting
 
 The first one is the proverbial "last mile" problem. If it's not as easy as having "team" folder (instead of actively uploading files via web or command line), and anyway - browsers are an attack surface "magic folders" avoid.
 
