@@ -3,7 +3,7 @@ I've been playing on and off with [Tahoe-LAFS](https://tahoe-lafs.org/) since [b
 1. "Magic folder" functionality
 2. Quotas/accounting
 
-The first one is the proverbial "last mile" problem. If it's not as easy as having "team" folder (instead of actively uploading files via web or command line), and anyway - browsers are an attack surface "magic folders" avoid.
+The first one is the proverbial "last mile" problem. Should be as easy as having "team" folder (instead of actively uploading files via web or command line), and anyway - browsers are an attack surface "magic folders" avoid.
 
 The second problem is more inherent: if I can tell *how much* information you're storing, this is already a partial leak of that information (e.g. I can tell you have at most X hours of video).
 
